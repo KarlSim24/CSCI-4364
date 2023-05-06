@@ -1,2 +1,4 @@
-# CSCI-4364-YOLO
-https://colab.research.google.com/github/roboflow-ai/yolov5-custom-training-tutorial/blob/main/yolov5-custom-training.ipynb
+# CSCI-4364-YOLOv5 Final Project
+This repository contains the code used for training and evaluating the YOLOv5 model on the VisDrone2019 dataset.
+
+Included is also a copy of my final report.
